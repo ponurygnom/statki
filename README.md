@@ -1,2 +1,5 @@
 # statki
-program, który nie powinien istnieć, ale został w istnienie zmuszony
+przyznam się bez bicia: to działało
+
+
+działało
